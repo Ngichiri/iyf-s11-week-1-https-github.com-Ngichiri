@@ -21,8 +21,7 @@ I built a basic webpage called "Web Foundation" using only HTML to practice docu
 2. Open index.html in your browser
 
 ## Lessons Learned
-I learned how to use semantic HTML tags like 
- <nav>, <h1>, <p>, <ul>, <li> to structure content properly.
+I learned how to use semantic HTML tags to structure content properly.
 I also learned that every opening tag needs a closing tag.
 
 ## Challenges Faced
