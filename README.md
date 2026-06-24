@@ -26,3 +26,6 @@ I also learned that every opening tag needs a closing tag.
 
 ## Challenges Faced
 My image wasn’t displaying at first. I fixed it by putting the image file in the same folder as index.html and correcting the src path.
+
+## Task 2.5: Technical Artical - sematic HTML & Accessibility
+[My Article: How I Fixed My Portfolio Withh Sematic HTML](https://dev.to/ngichiri/how-i-fixed-my-portfolio-with-semantic-html-accessibility-255)
